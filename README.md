@@ -69,13 +69,4 @@ I love discovering new tech tools and customizing my Linux system — Pop!\_OS i
 
 ---
 
-### 📌 Pinned Projects _(Optional – Add real links)_
-
-- [🔗 Project 1](#): Description of the project and technologies used.
-- [🔗 Android App](#): Short description of your mobile app.
-- [🔗 Django Project](#): Description of web app with Django backend.
-
----
-
-> _Feel free to check out my repositories and reach out if you’d like to collaborate or just say hi!_
 
